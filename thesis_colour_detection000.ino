@@ -36,6 +36,7 @@ void setup() {
   Serial.begin(9600);
 }
 
+//main
 void loop() {
    placing.write(70);
    delay(50);
